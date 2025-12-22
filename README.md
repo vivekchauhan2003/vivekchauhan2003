@@ -65,16 +65,6 @@ I enjoy working close to the core of systems — **business logic, data integrit
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekchauhan2003&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vivekchauhan2003&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekchauhan2003&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🏆 Highlights
 - 🥈 **WebCraft Hackathon** – 2nd place among 600+ participants  
 - ⭐ **4-Star Java Developer** on HackerRank  
