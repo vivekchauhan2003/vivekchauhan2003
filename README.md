@@ -72,10 +72,5 @@ I enjoy working close to the core of systems — **business logic, data integrit
 
 ---
 
-## 📈 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=vivekchauhan2003&icon=2&color=12)
-
----
-
 ### ⚡ Final Note
 I am actively strengthening my expertise in **backend architecture, system design, and cloud-native Java applications**, and I enjoy working on problems that demand correctness, scalability, and clean design.
