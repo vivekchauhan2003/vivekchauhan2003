@@ -67,11 +67,9 @@ I enjoy working close to the core of systems — **business logic, data integrit
 
 ## 📊 GitHub Stats
 
-> Configured to highlight **consistent backend contributions** rather than vanity metrics.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekchauhan2003&show_icons=true&theme=dark&hide_border=true)
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekchauhan2003&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vivekchauhan2003&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vivekchauhan2003&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekchauhan2003&layout=compact&theme=dark&hide_border=true)
 
