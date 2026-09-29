@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Vivek Chauhan
+# Hi, I’m Vivek Chauhan
 
-## 🚀 Backend Java Developer | Spring Boot | Microservices
+## Backend Java Developer | Spring Boot | Microservices
 
 Backend Java Developer with hands-on experience building **scalable, production-grade backend systems** using **Java 17, Spring Boot, and RESTful APIs**.  
 Currently working on **enterprise applications** in Agile environments, contributing to **cloud deployments, CI/CD pipelines, and backend modernization initiatives**.
@@ -9,7 +9,7 @@ I enjoy working close to the core of systems — **business logic, data integrit
 
 ---
 
-## 🧑‍💻 Professional Focus
+## Professional Focus
 - Backend development with **Java & Spring Boot**
 - REST API design & integration
 - Microservices & layered architectures
@@ -26,7 +26,7 @@ I enjoy working close to the core of systems — **business logic, data integrit
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -58,7 +58,7 @@ I enjoy working close to the core of systems — **business logic, data integrit
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 - **HTML Generator (Internal Tool)** – Backend-only Spring Boot application migrated from Azure Functions  
 - **Search Flow Platform – Ordering API** – Enterprise backend system with MS SQL & Cosmos DB  
 - Focused on **API stability, data validation, and CI/CD-driven releases**
